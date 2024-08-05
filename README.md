@@ -60,7 +60,7 @@ File Transfer Protocol (FTP) search engines are used to search for files located
 
 You can also use [Freeware WB](http://www.freewarewb.com)
 
-#### Find the Company's Domains and Sub-domains using Netcraft
+## Find the Company's Domains and Sub-domains using Netcraft
 1. **Go to [Netcraft](https://www.netcraft.com)**.
 2. **Access the Site Report Tool**:
    - Navigate to [Netcraft Site Report](https://sitereport.netcraft.com/).
