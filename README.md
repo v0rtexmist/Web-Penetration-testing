@@ -50,3 +50,12 @@
 12. **location:**
     - Find results based on a specified geographical location.
     - Useful for geo-targeted searches and local information.
+
+## Information from FTP Search Engines
+
+File Transfer Protocol (FTP) search engines are used to search for files located on FTP servers; these files may hold valuable information about the target organization. Many industries, institutions, companies, and universities use FTP servers to keep large file archives and other software that are shared among their employees. FTP search engines provide information about critical files and directories, including valuable information such as business strategies, tax documents, employees' personal records, financial records, licensed software, and other confidential information. Here, we will use the NAPALM FTP indexer FTP search engine to extract critical FTP information about the target organization.
+
+- Go to [Search FTPs](https://www.searchftps.net/)
+- Search for the target organization site
+
+You can also use [Freeware WB](http://www.freewarewb.com)
