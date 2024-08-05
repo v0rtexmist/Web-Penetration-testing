@@ -59,3 +59,15 @@ File Transfer Protocol (FTP) search engines are used to search for files located
 - Search for the target organization site
 
 You can also use [Freeware WB](http://www.freewarewb.com)
+
+#### Find the Company's Domains and Sub-domains using Netcraft
+1. **Go to [Netcraft](https://www.netcraft.com)**.
+2. **Access the Site Report Tool**:
+   - Navigate to [Netcraft Site Report](https://sitereport.netcraft.com/).
+3. **Search for the Primary Domain**:
+   - Enter `example.com` in the search bar and generate the report.
+4. **Review the Site Report**:
+   - Note the hosting provider, IP addresses, and other technical information.
+   - Identify any listed sub-domains and related domains.
+5. **Conduct Additional Searches**:
+   - Use Netcraft's search function to find more domains related to the company.
