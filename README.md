@@ -71,3 +71,40 @@ You can also use [Freeware WB](http://www.freewarewb.com)
    - Identify any listed sub-domains and related domains.
 5. **Conduct Additional Searches**:
    - Use Netcraft's search function to find more domains related to the company.
+
+## Gather Personal Information Using PeekYou Online People Search Service
+
+### Description
+PeekYou is an online people search service that aggregates publicly available information from the web to create comprehensive profiles. It can be used for gathering personal information during a pentest to gain insights into a target's online presence, which can be useful for social engineering attacks, reconnaissance, and other aspects of penetration testing.
+
+### Steps
+
+1. **Access PeekYou:**
+   - Open your web browser and navigate to the PeekYou website: [PeekYou](https://www.peekyou.com).
+
+2. **Search for the Target:**
+   - In the search bar, enter the full name of the target individual. If known, you can also add additional information such as location (city, state) to narrow down the search results.
+   - Click the "Search" button to begin the search.
+
+3. **Review the Results:**
+   - Browse through the search results to find the profile that matches your target. PeekYou provides a summary of each profile with key information such as age, location, and related people.
+   - Click on the most relevant profile to view more detailed information.
+
+4. **Extract Information:**
+   - Review the detailed profile for information such as:
+     - Full Name
+     - Age
+     - Address
+     - Phone Numbers
+     - Email Addresses
+     - Social Media Profiles
+     - Photos
+     - Related People
+     - Public Records
+   - Document any relevant information for your pentest report.
+
+5. **Correlate and Validate:**
+   - Cross-reference the gathered information with other sources to validate its accuracy.
+   - Use the information to build a more complete profile of the target.
+
+
